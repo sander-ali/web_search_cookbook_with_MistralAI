@@ -1,2 +1,2 @@
-# web_search_cookbook_with_MistralAI
-This cookbook is designed to guide you in effectively utilizing the latest Mistral Large 2 model to perform web searches and seamlessly integrate credible sources into your responses. 
+# References/Web Search Cookbook
+This cookbook is designed to guide you in effectively utilizing the latest Mistral Large 2 model to perform web searches and seamlessly integrate credible sources into your responses. One of the persistent challenges in chatbots and Retrieval-Augmented Generation (RAG) systems is their propensity to fabricate sources or misformat URLs, undermining the reliability of their outputs. Mistral's cutting-edge capabilities overcome these limitations, ensuring precise and trustworthy information retrieval.
